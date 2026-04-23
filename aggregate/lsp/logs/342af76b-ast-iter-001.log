@@ -1,0 +1,7 @@
+[2026-04-23T10:33:36Z] === AST ITERATION 1 START | repo=seanmonstar/num_cpus sha=342af76b ===
+[2026-04-23T10:33:36Z] [iter=1] PHASE START: ast repo=seanmonstar/num_cpus sha=342af76b
+[2026-04-23T10:33:36Z] [iter=1] Building AST aggregate chunks
+[2026-04-23T10:33:38Z] [iter=1] AST chunks built count=1 triples=33023
+[2026-04-23T10:33:38Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/342af76b486335e5a955c7314fc96cd104e7a17b/.complete
+[2026-04-23T10:33:38Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-04-23T10:33:38Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
