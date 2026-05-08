@@ -87,8 +87,9 @@
     {
       "@id": "https://repolex.ai/r/seanmonstar/num_cpus/commit/90373f3865f92a0e8c5e137738fb91df19bea7e0",
       "git:hexsha": "90373f3865f92a0e8c5e137738fb91df19bea7e0",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v1.14.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.14.0",
+      "repolex:parsedAt": "2026-05-08T19:07:28.271058+00:00"
     },
     {
       "@id": "https://repolex.ai/r/seanmonstar/num_cpus/commit/5bea3c7986c2a5c6763ca1b3f6d6982aca7cdc23",
